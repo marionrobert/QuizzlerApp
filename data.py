@@ -2,7 +2,7 @@ import requests
 
 url = "https://opentdb.com/api.php"
 params = {
-    "amount": 20,
+    "amount": 10,
     "type": "boolean",
     "difficulty": "medium"
 }
